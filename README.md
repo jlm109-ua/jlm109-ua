@@ -1,9 +1,6 @@
 <div id="header" style="text-align: center;">
-    <div style="display: inline-block; vertical-align: bottom; margin-right: 20px;">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3E1em9zbWYweTJxaHFhdnRoNmdlMTZ2YjlzeTdjYWR0ZmJsbXk3eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ALoUj8oDtCVd6eMKPU/giphy.gif" style="max-height: 200px;">
-    </div>
-    <div style="display: inline-block; vertical-align: top; margin-right: 20px;">
-        <img src="https://media.giphy.com/media/K77lWFobBeX5xcLsdp/giphy.gif?cid=790b7611mpmwrvlnskc2hvjeivfi2mypxl8utqmxbuvfsmcg&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="max-height: 200px;">
+    <div align=center>
+        <img src="https://media.giphy.com/media/K77lWFobBeX5xcLsdp/giphy.gif?cid=790b7611mpmwrvlnskc2hvjeivfi2mypxl8utqmxbuvfsmcg&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300">
     </div>
 </div>
 
