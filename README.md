@@ -108,6 +108,8 @@ I am a young spanish programmer and car enthusiast who likes to create stuff.
 I'm currently learning a lot of things. The most important two I would say, besides programming, are car mechanics and graphic design. I'm trying to combine my car hobby with my programming skills.
 
 I speak **english**, pero también **castellano** i **valencià**, semblant al català, de manera nativa.
+
+Fun fact! I own the Lexus (IS200) of my profile pic and it's my main source of learning about mechanics.
 <div style="text-align: center;">
     <img src="https://komarev.com/ghpvc/?username=jlm109-ua&style=flat-square&color=blue" alt="">
 </div>
