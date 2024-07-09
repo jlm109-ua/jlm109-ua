@@ -23,9 +23,6 @@
 
 <div id="badges" align="center">
   <a>
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-  </a>
-  <a>
     <img src="https://img.shields.io/badge/C-grey?style=for-the-badge&logo=C&logoColor=white"/>
   </a>
   <a>
@@ -73,6 +70,9 @@
   <a>
     <img src="https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=.NET&logoColor=white"/>
   </a>
+    <a>
+    <img src="https://img.shields.io/badge/Nextjs-gray?style=for-the-badge&logo=Nextjs&logoColor=black"/>
+  </a>
   <a>
     <img src="https://img.shields.io/badge/OpenMPI-blue?style=for-the-badge&logo=OpenMPI&logoColor=white"/>
   </a>
@@ -103,11 +103,9 @@
 
 My name is Juan and my pronouns are he/him.
 
-I am a young spanish programmer and car enthusiast who likes to create stuff.
+I am a programmer and a car enthusiast who likes to create and modify stuff.
 
-I'm currently learning a lot of things. The most important two I would say, besides programming, are car mechanics and graphic design. I'm trying to combine my car hobby with my programming skills.
-
-I speak **english**, pero también **castellano** i **valencià**, semblant al català, de manera nativa.
+I created my own website! You can visit it [here](https://jimy-homepage.vercel.app).
 
 Fun fact! I own the Lexus (IS200) of my profile pic and it's my main source of learning about mechanics.
 <div style="text-align: center;">
