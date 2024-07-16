@@ -22,17 +22,28 @@
 </h1>
 
 <div id="badges" align="center">
+    <a href="https://jimy-homepage.vercel.app">
+        <img src="https://img.shields.io/badge/Homepage-white?style=for-the-badge&logo=Homepage&logoColor=black" alt="My homepage!"/>
+    </a>
+</div>
+
+## I know about...
+
+<div id="badges" align="center">
+  <a>
+    <img src="https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=.NET&logoColor=white"/>
+  </a>
   <a>
     <img src="https://img.shields.io/badge/C-grey?style=for-the-badge&logo=C&logoColor=white"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white"/>
   </a>
   <a>
     <img src="https://img.shields.io/badge/cplusplus-blue?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   </a>
   <a>
     <img src="https://img.shields.io/badge/csharp-lightgrey?style=for-the-badge&logo=csharp&logoColor=white"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white"/>
   </a>
   <a>
     <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white"/>
@@ -68,10 +79,10 @@
     <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=white"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=.NET&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Next%2013-gray?style=for-the-badge&logo=Next.js&logoColor=black"/>
   </a>
-    <a>
-    <img src="https://img.shields.io/badge/Nextjs-gray?style=for-the-badge&logo=Nextjs&logoColor=black"/>
+  <a>
+    <img src="https://img.shields.io/badge/Next%2014-gray?style=for-the-badge&logo=Next.js&logoColor=black"/>
   </a>
   <a>
     <img src="https://img.shields.io/badge/OpenMPI-blue?style=for-the-badge&logo=OpenMPI&logoColor=white"/>
