@@ -58,9 +58,6 @@
     <img src="https://img.shields.io/badge/Keras-red?style=for-the-badge&logo=Keras&logoColor=white"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/KOP-darkgreen?style=for-the-badge&logoColor=white"/>
-  </a>
-  <a>
     <img src="https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=Laravel&logoColor=white"/>
   </a>
   <a>
@@ -79,10 +76,7 @@
     <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=white"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/Next%2013-gray?style=for-the-badge&logo=Next.js&logoColor=black"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/Next%2014-gray?style=for-the-badge&logo=Next.js&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Next.js-gray?style=for-the-badge&logo=Next.js&logoColor=black"/>
   </a>
   <a>
     <img src="https://img.shields.io/badge/OpenMPI-blue?style=for-the-badge&logo=OpenMPI&logoColor=white"/>
@@ -92,9 +86,6 @@
   </a>
   <a>
     <img src="https://img.shields.io/badge/Photoshop-blue?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/PlatformIO-lightgrey?style=for-the-badge&logo=PlatformIO&logoColor=white"/>
   </a>
   <a>
     <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=Python&logoColor=white"/>
@@ -112,7 +103,7 @@
 
 ## About Me
 
-My name is Juan and my pronouns are he/him.
+Hello! My name is Juan! You can also call me Jimy :) 
 
 I am a programmer and a car enthusiast who likes to create and modify stuff.
 
