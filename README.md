@@ -1,17 +1,14 @@
 <!-- Profile -->
 <p align="left"><strong><samp> ✦ </samp></strong></p>
     <p align="center">
-      <samp><br>
-        <br>
-            <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=037cf6&center=true&width=410&height=45&lines=Hey!"/>
-        <br>
+      <samp>
         <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dzM2k1bmlrYnNkOHZlOXNiODFhNmloZnBrcHRsc3hhcWFtYzFmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/765ccrAiB0g9z6EApL/giphy.gif" width="250"/>
         <br>
-            <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=037cf6&center=true&width=410&height=45&lines=My+name+is+Jimy!"/>
+            Hey! My name is Jimy!
         <br>
             ✧ https://jimy-homepage.vercel.app ✧
         <br>
-      </samp><br>
+      </samp>
     </p>
 <p align="right"><strong><samp> ✦ </samp></strong></p>
 
