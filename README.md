@@ -1,20 +1,60 @@
-<div id="header" style="text-align: center;">
-    <div align=center>
-        <img src="https://media.giphy.com/media/K77lWFobBeX5xcLsdp/giphy.gif?cid=790b7611mpmwrvlnskc2hvjeivfi2mypxl8utqmxbuvfsmcg&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300">
-    </div>
-</div>
+<!-- Profile -->
+<p align="left"><strong><samp> ✦ </samp></strong></p>
+    <p align="center">
+      <samp><br>
+        <br>
+            <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=037cf6&center=true&width=410&height=45&lines=Hey!"/>
+        <br>
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dzM2k1bmlrYnNkOHZlOXNiODFhNmloZnBrcHRsc3hhcWFtYzFmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/765ccrAiB0g9z6EApL/giphy.gif" width="250"/>
+        <br>
+            <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=037cf6&center=true&width=410&height=45&lines=My+name+is+Jimy!"/>
+        <br>
+            ✧ https://jimy-homepage.vercel.app ✧
+        <br>
+      </samp><br>
+    </p>
+<p align="right"><strong><samp> ✦ </samp></strong></p>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/juan-llinares-mauri/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Juan Llinares Mauri"/>
-  </a>
-  <a href="https://www.instagram.com/jimy.k4">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="jimy.k4"/>
-  </a>
-  <a href="https://www.twitter.com/jimy_k4">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="jimy_k4"/>
-  </a>
-</div>
+<br>
+    <details align="center">
+    <summary><samp>Extend</samp></summary>
+    <h2></h2>
+<br>
+
+<!-- Contact Me -->
+<p align="center">
+    <samp>
+        <h3>✧ Social Media ✧</h3>
+        <p align="center">
+            <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnVrcXhvYjExcDFnaG9sdTF5cms0cWk1eHgzYjloaTRlMGZmZndlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB86ZyWQsnFSGYe2sA/giphy.gif" width="250"/>
+        </p>
+        <a href="http://instagram.com/jimy.k4" target="_blank"><img src="https://img.shields.io/badge/Instagram-6c57fa?style=for-the-badge&logo=instagram&logoColor=fff" alt="Instagram"></a>
+        <a href="http://twitter.com/_hxst" target="_blank"><img src="https://img.shields.io/badge/X-6c57fa?style=for-the-badge&logo=x&logoColor=white" alt="𝕏 / Twitter"></a>
+        <a href="https://www.linkedin.com/in/edu-ruiz-cantos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-6c57fa?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin"></a>
+    </samp>
+</p>
+
+<!-- Github Stats -->
+<p align="center">
+    <samp>
+        <h3>✧ Stats ✧</h3>
+        <p align="center">
+            <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3pyZXBsa2U5dGo4cmFmM2d6Y2swMDNnbmx4ZTZkNGZhcmI2anNscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif" width="250"/>
+        </p>
+    </samp>
+        <p>    
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jlm109-ua&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&title_color=000000&text_color=ffffff&bg_color=20d586&icon_color=000000"/>
+        </p>
+        <p>
+            <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlm109-ua&layout=compact&hide_border=true&title_color=000000&text_color=ffffff&bg_color=20d586&icon_color=000000"/>
+        </p>
+        <p>
+            <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
+        </p>
+
+
+<!-- ANTIGUO >
 
 <h1 align="center">
   hey!
@@ -113,3 +153,4 @@ Fun fact! I own the Lexus (IS200) of my profile pic and it's my main source of l
 <div style="text-align: center;">
     <img src="https://komarev.com/ghpvc/?username=jlm109-ua&style=flat-square&color=blue" alt="">
 </div>
+<!-->
